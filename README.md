@@ -1,5 +1,5 @@
 # Employee Database management system using JsonPowerDB
-   >>> original work by Soham Salkar © 
+   >>> original work by Ram Narayan ;ram.narayan072001@gmail.com 
 
 ## A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Students Database Management System**.
 
@@ -21,22 +21,6 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 - It helps developers in faster coding, in-turn reduces development cost.
 ---
 
-### Release History
-#### v0.0.0 (27/02/2021)
-##### Initialization:
-- [#1] Added basic designs of all planned HTML pages
----
-#### v0.1.0 (28/02/2021)
-##### Enhancements:
-- [#2] Designed all HTML pages
-- [#3] Added JS and connected pages to JsonPowerDB
-- [#4] Tested all pages
----
-#### v0.1.1 (01/03/2021)
-##### Enhancements:
-- [#5] Added a README.md file
-- [#6] Few CSS changes
----
 
 
 ### Table of Content
